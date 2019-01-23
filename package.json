@@ -1,0 +1,15 @@
+{
+  "name": "bisai8",
+  "version": "1.0.3",
+  "description": "bisai8.com",
+  "main": "",
+  "scripts": {
+   
+  },
+  "keywords": [],
+  "author": {
+    "name": "bisai8",
+    "email": "bisai8.npm@outlook.com"
+  },
+  "license": "MIT"
+}
